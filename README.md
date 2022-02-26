@@ -10,7 +10,7 @@ I build quantum universal simulator "Yi" with the Javascript programming languag
 
 ### About Me:
 
-- 🏦 I'm a student major in physics
+- 🎁 I'm a student major in physics of WHU
 - 💻 I use daily **.py**, **.js**,**.cpp**,**.f90**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="center">
@@ -39,6 +39,6 @@ I build quantum universal simulator "Yi" with the Javascript programming languag
 - [x] [Advanced Quantum Mechanics](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/AdvancedQuantumMechanicsReview.pdf)
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ElonDormancy&style=flat&color=000000" alt="quantum computation" width="10%"/>
+    <img src="https://komarev.com/ghpvc/?username=ElonDormancy&style=flat&color=000000" alt="quantum computation" width="15%"/>
 </p>
 
