@@ -39,5 +39,6 @@ I build quantum universal simulator "Yi" with the Javascript programming languag
 - [x] [Advanced Quantum Mechanics](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/AdvancedQuantumMechanicsReview.pdf)
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ElonDormancy&style=flat&color=000000" alt="quantum computation" width="20%"/>
+    <img src="https://komarev.com/ghpvc/?username=ElonDormancy&style=flat&color=000000" alt="quantum computation" width="10%"/>
 </p>
+
