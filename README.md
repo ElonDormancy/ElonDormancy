@@ -4,7 +4,7 @@
 
 ### Hi, I'm Dormancy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px">
 
-I build quantum universal simulator "Yi" with the Javascript programming language.
+I build quantum universal simulator "UQCS" with the Javascript programming language.
 
 [Quantum Simulator](https://github.com/ElonDormancy/QuantumSimulator)
 
