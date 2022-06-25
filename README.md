@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Bahnschrift&color=%23000000&size=28&lines=Quantum+Computation" alt="quantum computation" width="100%"/>
 </p>
 
-### Hi, I'm Dormancy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+### Hi, I'm Dormancy
 
 I build quantum universal simulator "UQCS" with the Javascript programming language.
 
