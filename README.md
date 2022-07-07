@@ -6,7 +6,7 @@
 
 I build quantum universal simulator "UQCS" with the Javascript programming language.
 
-[Quantum Simulator](https://github.com/ElonDormancy/QuantumSimulator)
+[Quantum Simulator](https://github.com/Santics/UQCS)
 
 ### About Me:
 
