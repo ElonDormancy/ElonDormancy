@@ -1,8 +1,4 @@
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bahnschrift&color=%23000000&size=28&lines=Quantum+Computation" alt="quantum computation" width="100%"/>
-</p>
-
-### Hi, I'm Dormancy
+### Hi, I'm Guangcheng
 
 I build quantum universal simulator "UQCS" with the Javascript programming language.
 
