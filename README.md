@@ -1,13 +1,11 @@
-### Hi, I'm Guangcheng
+### Hi, I'm Guangcheng :)
 
 I build quantum universal simulator "UQCS" with the Javascript programming language.
 
-[Quantum Simulator](https://github.com/Santics/UQCS)
-
 ### About Me:
 
-- 🎁 I'm a student major in physics of WHU
-- 💻 I use daily **.py**, **.js**,**.cpp**,**.f90**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- I'm a student major in physics of Wuhan University
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I use daily **.py**, **.js**,**.cpp**,**.f90** **.c** **.cu**
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
