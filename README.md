@@ -33,6 +33,6 @@ I build quantum universal simulator "UQCS" with the Javascript programming langu
 - [x] [Advanced Quantum Mechanics](https://github.com/ElonDormancy/Physics-Note/blob/master/Note/AdvancedQuantumMechanicsReview.pdf)
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ElonDormancy&style=flat&color=000000" alt="quantum computation" width="15%"/>
+    <img src="https://komarev.com/ghpvc/?username=ElonDormancy&style=plastic&color=000000" alt="quantum computation" width="10%"/>
 </p>
 
