@@ -12,6 +12,7 @@ I build quantum universal simulator "UQCS" with the Javascript programming langu
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg" alt="Lisp" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg" alt="nvidia" width="55" height="55"/> 
 </p>
 
 ### Also available at:
