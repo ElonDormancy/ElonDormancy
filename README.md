@@ -5,7 +5,8 @@ I build quantum universal simulator "UQCS" with the Javascript programming langu
 ### About Me:
 
 - I'm a student major in physics of Wuhan University
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I use daily **.py**, **.js**,**.cpp**,**.f90** **.c** **.cu**
+- I use daily **.py**, **.js**,**.cpp**,**.f90** **.c** **.cu**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
