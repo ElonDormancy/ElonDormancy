@@ -9,13 +9,13 @@ I'm interested in practical quantum algorithm and quantum error correction.
 - I'm a PhD student major in quantum physics of USTC
 - I use daily **.py**, **.js**,**.cpp**,**.f90** **.c** **.cu**
 
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg" alt="Lisp" width="55" height="55"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="nvidia" width="55" height="55"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" height="45"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="45" height="45"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg" alt="Lisp" width="45" height="45"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="NVIDIA CUDA" width="45" height="45"></td>
   </tr>
 </table>
 
