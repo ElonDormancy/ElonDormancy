@@ -10,11 +10,11 @@ I'm interested in practical quantum algorithm and quantum error correction.
 - I use daily **.py**, **.js**,**.cpp**,**.f90** **.c** **.cu**
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="45" height="45"/> 
-      <img src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg" alt="Lisp" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="45" height="45"/> 
-      <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="nvidia" width="45" height="45"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="15" height="15"/>
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="15" height="15"/> 
+      <img src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg" alt="Lisp" width="15" height="15"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="15" height="15"/> 
+      <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="nvidia" width="15" height="15"/> 
 </p>
 
 ### Also available at:
